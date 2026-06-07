@@ -1,4 +1,5 @@
 """A module to query bus and train departure times."""
+
 import asyncio
 import json
 import logging
